@@ -1,4 +1,4 @@
-# Regresja liniowa w R — notatka do zrozumienia
+# Regresja liniowa w R
 
 ## 1. Kod w R
 
@@ -582,7 +582,7 @@ czyli prawdopodobieństwo, że samochód ma manualną skrzynię biegów.
 
 ---
 
-# Najważniejsze rzeczy do zapamiętania
+# Kluczowe informacje
 
 - `lm()` służy do estymacji modelu regresji liniowej.
 - `summary()` pokazuje najważniejsze wyniki modelu.
